@@ -1,0 +1,28 @@
+# === UiPath ===
+.local/
+.settings/
+.screenshots/
+Logs/
+**/*.log
+**/*.tmp
+**/*.cache
+*.DesignTime.*
+
+# IDE
+.vscode/
+.vs/
+.idea/
+
+# NuGet/Binary
+packages/
+.nuget/
+*.nupkg
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Archives
+*.zip
+*.7z
+*.rar
